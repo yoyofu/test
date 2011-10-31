@@ -10,6 +10,7 @@ class MyClass(object):
     '''
      
 #aaa
+#222
 
     def __init__(selfparams):
         '''
