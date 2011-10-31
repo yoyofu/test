@@ -9,7 +9,7 @@ class MyClass(object):
     classdocs
     '''
      
-
+#aaa
 
     def __init__(selfparams):
         '''
